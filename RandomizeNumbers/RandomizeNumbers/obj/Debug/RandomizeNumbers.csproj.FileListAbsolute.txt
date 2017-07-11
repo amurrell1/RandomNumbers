@@ -1,0 +1,6 @@
+c:\users\big daddy\documents\visual studio 2017\Projects\RandomizeNumbers\RandomizeNumbers\bin\Debug\RandomizeNumbers.exe.config
+c:\users\big daddy\documents\visual studio 2017\Projects\RandomizeNumbers\RandomizeNumbers\bin\Debug\RandomizeNumbers.exe
+c:\users\big daddy\documents\visual studio 2017\Projects\RandomizeNumbers\RandomizeNumbers\bin\Debug\RandomizeNumbers.pdb
+c:\users\big daddy\documents\visual studio 2017\Projects\RandomizeNumbers\RandomizeNumbers\obj\Debug\RandomizeNumbers.csprojResolveAssemblyReference.cache
+c:\users\big daddy\documents\visual studio 2017\Projects\RandomizeNumbers\RandomizeNumbers\obj\Debug\RandomizeNumbers.exe
+c:\users\big daddy\documents\visual studio 2017\Projects\RandomizeNumbers\RandomizeNumbers\obj\Debug\RandomizeNumbers.pdb
